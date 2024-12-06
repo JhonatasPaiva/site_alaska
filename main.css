@@ -64,11 +64,10 @@ footer .container {
     align-items: center;
 }
 
-.alaska-landscape {
-    height: 400px;
+iframe {
     margin-left: 32px;
     margin-top: 10px;
-    margin-bottom: 16px;
+    margin-bottom: 60px;
 }
 
 .alaska-landscape1 {
@@ -101,6 +100,10 @@ section h2 {
 
 section P {
     margin-bottom: 8px;
+}
+
+#alaska p {
+    width: 650px;
 }
 
 .tourist-attractions {
